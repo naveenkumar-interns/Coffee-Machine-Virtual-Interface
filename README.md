@@ -1,5 +1,3 @@
-﻿# Coffee-Machine-Virtual-Interface
-
 # Coffee Machine Virtual Interface
 
 This project is a computer vision-based virtual interface for a coffee machine, using hand gesture recognition to select options. It overlays webcam input and interactive UI elements on a custom background.
